@@ -1,0 +1,79 @@
+@import url("https://use.typekit.net/mea7dfv.css");
+/*@import url("https://fonts.googleapis.com/css2?family=ZCOOL+XiaoWei&display=swap");*/
+
+html,
+body {
+  margin: auto;
+  padding: 0;
+  background-color: rgb(50,20,70); /*(102,45,145)*/
+  font-family: "orgovan-rounded-web", sans-serif;
+}
+
+canvas {
+  margin: auto; /* add the margin to center your canvas*/
+  display: block;
+}
+
+h1 {
+  text-align: center; 
+  color: rgb(255,242,0);
+  text-shadow: 2px 2px 5px black;
+  letter-spacing: 5px;
+  font-size: 80px;
+}
+
+p {
+  text-align: center;
+  font-size: 18px;
+  color: white;
+  text-shadow: 2px 2px 5px black;
+}
+
+p3 {
+  margin-bottom: 20px;
+  margin-left: 450px;
+  margin-right: 450px;
+  text-align: center;
+  display: block;
+  font-size: 18px;
+  color: white;
+  text-shadow: 2px 2px 5px black;
+}
+
+p4 {
+  margin-top: 20px;
+/*   margin-left: 50px;
+  margin-right: 50px; */
+  text-align: center;
+  display: block;
+  font-size: 20px;
+  color: white;
+  text-shadow: 2px 2px 5px black;
+}
+
+p5 {
+  margin-top: 25px;
+  margin-bottom: 25px;
+/*   margin-left: 50px;
+  margin-right: 50px; */
+  text-align: center;
+  display: block;
+  font-size: 15px;
+  color: white;
+  text-shadow: 2px 2px 5px black;
+}
+
+p6 {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  text-align: center;
+  display: block;
+  font-size: 15px;
+  color: white; /* Set the text color to white */
+  text-shadow: 2px 2px 5px black;
+}
+
+.highlight {
+  color: yellow;
+}
+
